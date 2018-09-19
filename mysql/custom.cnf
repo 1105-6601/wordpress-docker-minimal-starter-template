@@ -1,0 +1,5 @@
+[mysqld]
+character-set-server=utf8mb4
+collation-server=utf8mb4_ja_0900_as_cs_ks
+max_allowed_packet=16M
+sql_mode=''
